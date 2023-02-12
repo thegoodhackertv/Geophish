@@ -32,5 +32,5 @@ php -S 0.0.0.0:80
 Create a tunnel using [localhost.run](http://localhost.run/)
 `ssh -R 80:localhost:80 nokey@localhost.run`
 -  Second Method
-Host files on your own server, use a domain and install certbot to enable HTTP(S)
+Host files on your own server, use a domain and install certbot to enable HTTPS
 6. All captured locations will be saved on a file called `log.html` on the root directory of your website.

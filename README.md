@@ -20,6 +20,7 @@ php -S 0.0.0.0:80
 ```
 4. Expose your website to the internet.
 Create a tunnel using [localhost.run](http://localhost.run/)
+
 `ssh -R 80:localhost:80 nokey@localhost.run`
 You should see a link with this format: `https://u83450tuntg.lhr.life`, make sure you use HTTPS.
 5. Logs will be saved into `log.html`

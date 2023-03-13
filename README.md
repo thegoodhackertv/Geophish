@@ -25,3 +25,6 @@ Create a tunnel using [localhost.run](http://localhost.run/)
 You should see a link with this format: `https://u83450tuntg.lhr.life`, make sure you use HTTPS.
 
 5. Logs will be saved into `log.html`
+
+## Support
+[<img width=250 alt="buymeacoffe" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png">](https://www.buymeacoffee.com/thegoodhacker)
